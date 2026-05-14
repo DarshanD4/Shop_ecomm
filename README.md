@@ -1,1 +1,1 @@
-This is a ecom app that i made using flutter
+This is a e commerce app that i made using flutter
